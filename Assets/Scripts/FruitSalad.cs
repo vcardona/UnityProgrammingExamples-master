@@ -15,6 +15,7 @@ public class FruitSalad : MonoBehaviour
 
         myApple.SayHello();
         myApple.Chop();
+        
 	}
 	
 	void Update () 
